@@ -1,7 +1,8 @@
 # Introduction to Machine Learning: the notebooks
 
 The notebooks of the course taught at Shenzhen Technology University, and
-three companions on decision trees and random forests. Every cell runs with the
+five companions on decision trees, random forests, support vector machines and
+k-means. Every cell runs with the
 network switched off: each dataset either ships inside scikit-learn or is
 written into a cell.
 
@@ -10,6 +11,8 @@ written into a cell.
 - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-AI-Finance/Introduction-to-Machine-Learning-notebooks/blob/master/block3.ipynb) **block3** &mdash; A network, and a leak: one neuron by hand, then a column that contains the answer
 - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-AI-Finance/Introduction-to-Machine-Learning-notebooks/blob/master/block5.ipynb) **block5** &mdash; One dial, three answers: counting which word follows which
 - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-AI-Finance/Introduction-to-Machine-Learning-notebooks/blob/master/forest_basics.ipynb) **forest_basics** &mdash; Random forests, in pictures: one tree that moves, a vote, and what more trees buy
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-AI-Finance/Introduction-to-Machine-Learning-notebooks/blob/master/kmeans_basics.ipynb) **kmeans_basics** &mdash; K-means, in pictures: three centres, where they start, how many groups, the units, and round lumps
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-AI-Finance/Introduction-to-Machine-Learning-notebooks/blob/master/svm_basics.ipynb) **svm_basics** &mdash; Support vector machines, in pictures: the widest street, what a point inside it costs, the units, a curved boundary, and how local the curve is
 - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-AI-Finance/Introduction-to-Machine-Learning-notebooks/blob/master/tree_basics.ipynb) **tree_basics** &mdash; Decision trees, in pictures: one cut, a tree drawn as a tree, depth, and a staircase
 - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-AI-Finance/Introduction-to-Machine-Learning-notebooks/blob/master/trees.ipynb) **trees** &mdash; Decision trees and random forests: impurity, greedy splits, and the variance of an average
 
